@@ -1,0 +1,77 @@
+/* Navbar */
+.navbar {
+    margin-bottom: 0;
+    background-color: #FF6347; /* Tomato color */
+    border: 0;
+    border-radius: 0;
+}
+
+.navbar-brand {
+    color: black; /* White text color for the brand */
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar-toggle {
+    background-color: grey; /* Match the navbar background color */
+}
+
+.navbar-toggle .icon-bar {
+    background-color: #FFF; /* White color for the icon bars */
+}
+
+.navbar-nav {
+    text-align: center;
+}
+
+.navbar-nav>li {
+    display: inline-block;
+    margin: 10px;
+}
+
+.navbar-nav>li>a {
+    color: black;
+    font-weight: bold;
+}
+
+/* Page Heading */
+h1 {
+    margin: 20px 0;
+    font-size: 36px;
+    color: #FF6347; /* Tomato color */
+}
+
+/* Main Content Sections */
+.container {
+    padding: 20px;
+    background-color: #F5F5F5; /* Light gray background color */
+}
+
+/* Restaurant Information Section */
+.container h2 {
+    font-size: 24px;
+    color: #FF6347;
+}
+
+/* Menu and Contact Sections */
+.container h2 {
+    font-size: 24px;
+    color: #FF6347;
+}
+
+.container p {
+    font-size: 16px;
+}
+
+/* Address Styling */
+address {
+    font-style: normal;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    color: #666;
+    padding: 10px;
+    background-color: #333; /* Dark gray background for the footer */
+}
